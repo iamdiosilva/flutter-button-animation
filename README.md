@@ -1,6 +1,6 @@
 # buttons_animations
 
-<img src="https://user-images.githubusercontent.com/65866387/190863537-f36c7f91-8990-4774-baa8-0ae16d5863b8.gif"/>
+<img src="https://user-images.githubusercontent.com/65866387/190863537-f36c7f91-8990-4774-baa8-0ae16d5863b8.gif" width="540" height="1170"/>
 
 A new Flutter project.
 
